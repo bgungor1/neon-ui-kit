@@ -23,3 +23,12 @@ This project demonstrates the implementation of a scalable Design System using *
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/kullaniciadi/neon-ui-kit.git]
+
+### 2. Navigate to the project directory
+```bash
+cd neon-ui-kit
+
+### 3. Install dependencies
+```bash
+npm install
+ 
