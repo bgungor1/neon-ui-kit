@@ -15,7 +15,7 @@
 - **Core:** React 19 + Vite
 - **Styling:** Tailwind CSS v3.4.17 (Zero-config engine)
 - **Language:** TypeScript (Strict Mode)
-- **Development Environment:** Storybook 8
+- **Development Environment:** Storybook 10
 - **Architecture:** Atomic Design (Atoms → Molecules → Organisms → Templates → Pages)
 - **Utilities:** `clsx`, `tailwind-merge`, `cva` (Class Variance Authority)
 
