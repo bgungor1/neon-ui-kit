@@ -64,9 +64,9 @@ LoginPage (Full authentication view)
 
 ## 🚧 Roadmap (Upcoming)
 
-- [ ] Organisms: Navigation Bar, Footer, Car Listing Grid.
+- [ ] Organisms: Navigation Bar, Footer
 - [ ] Templates: Dashboard Layout (Sidebar + Content Area).
-- [ ] Pages: Rent-a-Car Listing Page, User Profile Page.
+- [ ] Pages:User Profile Page.
 - [ ] Theming: Light/Dark mode toggle integration.
 
 ## 🛠️ Getting Started
